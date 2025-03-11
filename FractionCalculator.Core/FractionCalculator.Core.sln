@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionCalculator.Core", "FractionCalculator.Core\FractionCalculator.Core.csproj", "{72C516B5-C58E-4C8B-BC3F-8AE4F207362B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionCalculator.Tests", "FractionCalculator.Tests\FractionCalculator.Tests.csproj", "{66950362-328F-4915-B212-D1B2C5A79BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C516B5-C58E-4C8B-BC3F-8AE4F207362B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C516B5-C58E-4C8B-BC3F-8AE4F207362B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C516B5-C58E-4C8B-BC3F-8AE4F207362B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C516B5-C58E-4C8B-BC3F-8AE4F207362B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66950362-328F-4915-B212-D1B2C5A79BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66950362-328F-4915-B212-D1B2C5A79BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66950362-328F-4915-B212-D1B2C5A79BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66950362-328F-4915-B212-D1B2C5A79BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0624894B-C210-438A-970C-008FE312B7D9}
+	EndGlobalSection
+EndGlobal

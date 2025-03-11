@@ -1,0 +1,7 @@
+C:\Users\Анхель Гонсален\Desktop\тестування\FractionCalculator.Core\FractionCalculator.Core\bin\Debug\FractionCalculator.Core.exe.config
+C:\Users\Анхель Гонсален\Desktop\тестування\FractionCalculator.Core\FractionCalculator.Core\bin\Debug\FractionCalculator.Core.exe
+C:\Users\Анхель Гонсален\Desktop\тестування\FractionCalculator.Core\FractionCalculator.Core\bin\Debug\FractionCalculator.Core.pdb
+C:\Users\Анхель Гонсален\Desktop\тестування\FractionCalculator.Core\FractionCalculator.Core\obj\Debug\FractionCalculator.Core.csproj.AssemblyReference.cache
+C:\Users\Анхель Гонсален\Desktop\тестування\FractionCalculator.Core\FractionCalculator.Core\obj\Debug\FractionCalculator.Core.csproj.CoreCompileInputs.cache
+C:\Users\Анхель Гонсален\Desktop\тестування\FractionCalculator.Core\FractionCalculator.Core\obj\Debug\FractionCalculator.Core.exe
+C:\Users\Анхель Гонсален\Desktop\тестування\FractionCalculator.Core\FractionCalculator.Core\obj\Debug\FractionCalculator.Core.pdb
